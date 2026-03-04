@@ -1,2 +1,4 @@
---index-url https://bcms.bloomberg.com/pip/simple/
+--extra-index-url https://bcms.bloomberg.com/pip/simple/
+anthropic
+requests
 blpapi
